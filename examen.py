@@ -18,3 +18,9 @@ num7= 40
 result= (num6*num7)
 int=input ("tener el valor de la multiplicacion")
 print (result)
+
+num8= 60 
+num9= 50 
+result= (num8+num9)
+int=input ("tener el valor de la suma")
+print (result)
