@@ -37,3 +37,8 @@ result= (num12+num13)
 int=input ("tener el valor de suma")
 print (result)
 
+num14= 70
+num15= 20
+result= (num14+num15)
+int= input ("tener el valor de suma")
+print (result)
