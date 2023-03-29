@@ -30,3 +30,10 @@ num11= 30
 result= (num10-num11)
 int=input ("tener el valor de resta")
 print (result)
+
+num12= 90
+num13= 60
+result= (num12+num13)
+int=input ("tener el valor de suma")
+print (result)
+
